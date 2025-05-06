@@ -15,17 +15,13 @@ const About = () => {
           </h2>
           <div className="max-w-3xl mx-auto">
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
-              I'm a passionate software developer focused on crafting intuitive and responsive web applications.
-              My expertise lies in React, TypeScript, and modern front-end technologies, and I'm always eager to learn
-              and implement new tools that enhance user experience.
+            I'm Chandana Gurram, a passionate and goal-oriented Computer Science graduate student
             </p>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-6">
-              I enjoy translating ideas into scalable and maintainable code. Whether collaborating on a team or working
-              independently, I bring a detail-oriented and solution-driven mindset to every project.
+            I have hands-on experience in Python, C, and C++ programming, along with UI/UX design and frontend development skills. My work blends strong technical skills with a creative approach to problem-solving
             </p>
             <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
-              Outside of coding, I’m curious about UI/UX design and continuously seek to bridge the gap between
-              functionality and aesthetics in web applications.
+            I'm currently enhancing my expertise through academic projects and freelance opportunities. I'm always eager to learn, collaborate, and contribute to impactful tech solutions.
             </p>
           </div>
         </motion.div>

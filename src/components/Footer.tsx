@@ -13,7 +13,7 @@ const Footer = () => {
             <a href="https://github.com/Chandanagoud30" className="hover:text-blue-500 transition duration-300">
               <FaGithub className="h-6 w-6" />
             </a>
-            <a href="#" className="hover:text-blue-500 transition duration-300">
+            <a href="https://www.linkedin.com/in/chandana-gurram-a8b146211/" className="hover:text-blue-500 transition duration-300">
               <FaLinkedin className="h-6 w-6" />
             </a>
             <a href="mailto:gurramchandana9515@gmail.com" className="hover:text-blue-500 transition duration-300">

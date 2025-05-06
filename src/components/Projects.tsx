@@ -5,10 +5,10 @@ const projects = [
   {
     title: 'Image Gallary',
     description:
-      'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.',
+      'This collection showcases a diverse range of projects that reflect creativity, problem-solving, and technical skills. Each project represents a unique challenge and learning experience, highlighting our commitment to innovation and excellence.',
     image: Gallary,
     technologies: ['React', 'TypeScript', 'Tailwind'],
-    link: 'https://chandanagoud30.github.io/Project-Gallary/',
+    link: 'https://chandanagoud30.github.io/frontendgallery/',
   },
 ]
 
